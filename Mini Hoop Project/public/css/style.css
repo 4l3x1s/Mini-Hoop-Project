@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  /* Change for an image */
+  background: rgb(41, 40, 40);
+}
+
+.box {
+  display: flex;
+  flex: 1 1 auto;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+  border: 2px ridge rgb(255, 167, 4);
+}
+
+#score {
+  font-size: 180px;
+  color: rgb(255, 167, 4);
+}

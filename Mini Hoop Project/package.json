@@ -1,0 +1,14 @@
+{
+  "description": "Score counter for mini basketball hoop",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "pigpio": "^1.2.1",
+    "gulp": "^3.9.1",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {},
+  "author": "4l3x1s",
+  "license": "MIT"
+}
